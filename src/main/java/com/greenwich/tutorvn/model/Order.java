@@ -1,11 +1,9 @@
 package com.greenwich.tutorvn.model;
-
 import com.fasterxml.jackson.databind.DatabindException;
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
-
 import java.util.ArrayList;
 import java.util.Date;
 import java.util.List;
